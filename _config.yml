@@ -83,7 +83,7 @@ kramdown:
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "只是与你一样的普通人罢了。"
-sidebar-avatar: /img/DJY.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/DJY.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
