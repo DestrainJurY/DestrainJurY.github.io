@@ -3,7 +3,7 @@ title: _DestrainJurY_ Blog
 SEOTitle: 雨殇的博客 | _DestrainJurY_ Blog
 header-img: img/home-bg.jpg
 email: 1043358844@qq.com
-description: ""
+description: "相信奇迹的人，本身就和奇迹一样了不起。"
 keyword: ""
 url: "https://DestrainJurY.github.io"              # your host, for absolute URL
 baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
@@ -82,8 +82,8 @@ kramdown:
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "写写代码，做做设计，看看产品。世界那么大，多玩玩看看。"
-sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "只是与你一样的普通人罢了。"
+sidebar-avatar: /img/DJY.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -96,19 +96,19 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 # Friends
 friends: [
     {
-        title: "Hux Blog",
-        href: "http://huangxuan.me"
+        title: "事糸覗啦_Coty",
+        href: "https://space.bilibili.com/477963912/"
     },{
-        title: "Foo",
-        href: "#"
+        title: "flowey-F-W-ty",
+        href: "https://space.bilibili.com/1483364397/"
     },{
-        title: "Bar",
-        href: "#"
+        title: "YuanZeroXiaoHeHe",
+        href: "https://space.bilibili.com/3461581289556444/"
     },{
-        title: "Example Friends",
-        href: "#"
+        title: "懒骨头不再懒惰",
+        href: "https://space.bilibili.com/3493283789539656/"
     },{
-        title: "It helps SEO",
+        title: "待补充...",
         href: "#"
     }
 ]
