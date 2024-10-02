@@ -6,6 +6,7 @@ date:       2015-09-22
 author:     "Hux"
 header-img: "img/post-bg-js-version.jpg"
 hidden:     true
+published:  false
 ---
 
 
