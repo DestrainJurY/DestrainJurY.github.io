@@ -1,11 +1,11 @@
 ---
-layout:       post
-title:        "Hello world"
-subtitle:     "我是subtitle"
-date:         2024-10-02 12:00:00
-author:       "DestrainJurY"
-header-style: text
-catalog:      true
+layout:     post
+title:      "Hello world"
+subtitle:   "我是subtitle"
+date:       2024-10-02 12:00:00
+author:     "DestrainJurY"
+header-img: ""
+hidden:     false
 tags:
     - 灌水
 ---
