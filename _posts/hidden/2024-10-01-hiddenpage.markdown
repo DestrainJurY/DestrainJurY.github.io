@@ -6,8 +6,6 @@ author:       "DestrainJurY?"
 header-style: text
 catalog:      true
 hidden:       true
-tags:
-    - 隐藏内容
 ---
 
 > “你是...?”
