@@ -2,7 +2,7 @@
 layout:     post
 title:      "Hello world"
 subtitle:   "我是subtitle"
-date:       2024-10-02 10:20:00
+date:       2024-10-02 12:00:00
 author:     "DestrainJurY"
 header-img: "img/post-bg-2015.jpg"
 tags:
