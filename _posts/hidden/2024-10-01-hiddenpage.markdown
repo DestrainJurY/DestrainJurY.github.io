@@ -2,7 +2,7 @@
 layout:       post
 title:        "是什么"
 subtitle:     "a unknown hidden page"
-author:       "/DestrainJurY?/"
+author:       "DestrainJurY?"
 header-style: text
 catalog:      true
 hidden:       true
