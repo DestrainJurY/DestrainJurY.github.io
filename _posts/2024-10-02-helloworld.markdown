@@ -1,9 +1,10 @@
 ---
-layout:     post
-title:      "Hello world"
-subtitle:   "我是subtitle"
-author:     "DestrainJurY"
-header-img: "img/post-bg-2015.jpg"
+layout:       post
+title:        "Hello world"
+subtitle:     "我是subtitle"
+author:       "DestrainJurY"
+header-style: text
+catalog:      true
 tags:
     - 灌水
 ---
