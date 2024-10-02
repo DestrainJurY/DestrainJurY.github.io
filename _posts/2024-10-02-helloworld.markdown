@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Hello world!"
+title:      "Hello world"
 subtitle:   "我是subtitle"
 date:       2024-10-02 10:20:00
 author:     "DestrainJurY"
