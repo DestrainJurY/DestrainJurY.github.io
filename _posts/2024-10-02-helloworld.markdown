@@ -4,10 +4,10 @@ title:      "Hello world"
 subtitle:   "我是subtitle"
 date:       2024-10-02 12:00:00
 author:     "DestrainJurY"
-header-img: ""
-hidden:     false
+header-img: "img/post-bg-2015.jpg"
 tags:
     - 灌水
+hidden:     false
 ---
 
 > “是什么呢...”
