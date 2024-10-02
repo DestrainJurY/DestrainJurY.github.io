@@ -6,6 +6,7 @@ date:       2015-04-14
 author:     "Hux"
 header-img: "img/post-bg-unix-linux.jpg"
 hidden:     true
+published:  false
 ---
 
 > This document is not completed and will be updated anytime.
