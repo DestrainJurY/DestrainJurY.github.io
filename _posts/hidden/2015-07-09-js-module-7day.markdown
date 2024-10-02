@@ -6,7 +6,6 @@ iframe:     "http://huangxuan.me/js-module-7day/"
 date:       2015-07-09
 author:     "Hux"
 header-img: "img/post-bg-js-version.jpg"
-tags:
 hidden:     true
 ---
 
